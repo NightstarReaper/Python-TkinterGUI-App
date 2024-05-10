@@ -1,0 +1,9 @@
+1,The Shawshank Redemption,1994,Frank Darabont,Drama,9.3,Available
+2,The Godfather,1972,Francis Ford Coppola,Crime,9.2,Available
+3,The Dark Knight,2008,Christopher Nolan,Action,9.0,Available
+4,The Godfather Part II,1974,Francis Ford Coppola,Crime,9.0,Available
+5,12 Angry Men,1957,Sidney Lumet,Crime,9.0,Available
+6,Schindler's List,1993,Steven Spielberg,Biography,8.9,Available
+7,The Lord of the Rings: The Return of the King,2003,Peter Jackson,Action,8.9,Available
+8,Pulp Fiction,1994,Quentin Tarantino,Crime,8.9,Available
+10,Fight Club,1999,David Fincher,Drama,8.8,Available
